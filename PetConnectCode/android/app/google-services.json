@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "189210323480",
+    "firebase_url": "https://spch-ff9e3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spch-ff9e3",
+    "storage_bucket": "spch-ff9e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189210323480:android:56153cb49787d66cf4316d",
+        "android_client_info": {
+          "package_name": "com.example.csvpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDK3uPrv5Js5ZXyqZ__skdKmKENByC54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
